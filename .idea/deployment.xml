@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="rahelmeyer@ls12-jolly.cs.tu-dortmund.de:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="rahelmeyer@ls12-jolly.cs.tu-dortmund.de:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/rahelmeyer/FaulTolerantDataIndexing" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
